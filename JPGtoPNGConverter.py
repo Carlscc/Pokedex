@@ -2,10 +2,6 @@ import sys
 import os
 from PIL import Image
 
-import sys
-import os
-from PIL import Image
-
 path = sys.argv[1]
 directory = sys.argv[2]
 
